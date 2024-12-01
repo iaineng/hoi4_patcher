@@ -1,0 +1,10 @@
+# Build directories
+/build/
+/out/
+/cmake-build*/
+
+# IDE configurations
+/.vs/
+/.vscode/
+/.idea/
+*.user
